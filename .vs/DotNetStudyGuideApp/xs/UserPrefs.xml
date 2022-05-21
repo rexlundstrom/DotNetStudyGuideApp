@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{0A53B291-0765-42D2-9487-C28476D65661}|InterviewPrepApp">
+  <MonoDevelop.Ide.ItemProperties.DotNetStudyGuideApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/Migrations/00000000000000_CreateIdentitySchema.cs">
+    <Files>
+      <File FileName="Views/Home/Index.cshtml" Line="9" Column="1" />
+      <File FileName="Views/Home/Privacy.cshtml" />
+      <File FileName="Controllers/HomeController.cs" />
+      <File FileName="Models/Card.cs" />
+      <File FileName="Views/Card/Create.cshtml" />
+      <File FileName="Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="219" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotNetStudyGuideApp" expanded="True">
+            <Node name="DotNetStudyGuideApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True">
+                  <Node name="00000000000000_CreateIdentitySchema.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Card" expanded="True" />
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

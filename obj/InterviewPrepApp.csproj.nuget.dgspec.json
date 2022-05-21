@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rexlundstrom/Projects/InterviewPrepApp/InterviewPrepApp.csproj": {}
+  },
+  "projects": {
+    "/Users/rexlundstrom/Projects/InterviewPrepApp/InterviewPrepApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rexlundstrom/Projects/InterviewPrepApp/InterviewPrepApp.csproj",
+        "projectName": "InterviewPrepApp",
+        "projectPath": "/Users/rexlundstrom/Projects/InterviewPrepApp/InterviewPrepApp.csproj",
+        "packagesPath": "/Users/rexlundstrom/.nuget/packages/",
+        "outputPath": "/Users/rexlundstrom/Projects/InterviewPrepApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rexlundstrom/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
